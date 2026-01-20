@@ -589,7 +589,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
-- [Hafid Ziti](https://www.hafidziti.dev)
+- [Haider Ali](https://haidersdev.vercel.app/)  [Ai Software Developer]
 - [Hamish Williams](https://hamishw.com)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamza Naseem](https://hamzanaseem.vercel.app)
